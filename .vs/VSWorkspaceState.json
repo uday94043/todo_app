@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\counter",
+    "\\src\\components\\learning-examples",
+    "\\src\\components\\todo"
+  ],
+  "SelectedNode": "\\src\\components\\todo\\ListTodosComponent.jsx",
+  "PreviewInSolutionExplorer": false
+}
